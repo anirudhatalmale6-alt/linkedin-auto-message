@@ -1,0 +1,8 @@
+session.json
+sent_log.csv
+contacts.csv
+message.txt
+__pycache__/
+*.pyc
+*.log
+.venv/

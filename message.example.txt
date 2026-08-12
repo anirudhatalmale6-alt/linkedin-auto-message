@@ -1,0 +1,1 @@
+Hi {first_name}, I came across your profile while looking at people working in the same space over at {company}. I'm putting together something that might overlap with what you're doing - open to a quick chat this week?
